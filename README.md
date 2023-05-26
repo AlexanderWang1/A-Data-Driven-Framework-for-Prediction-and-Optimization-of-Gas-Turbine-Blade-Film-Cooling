@@ -15,15 +15,15 @@ Wang, Y., Wang, Z., Qian, S., Qiu X., Shen W., & Cui, J. (2023). A Data-Driven F
 
 <img src=./Figures/fig1.png/>
                              
-*Fig. 1 Computational domain.*
+*                                             Fig. 1 Computational domain.*
 
 <img src=./Figures/fig3.png />
                              
-*Fig. 3 Schematic of data interpolation.*
+*                                          Fig. 3 Schematic of data interpolation.*
 
 <img src=./Figures/fig5.png>
 
-*Fig. 5 Schematic of the data-driven framework.*
+*                                      Fig. 5 Schematic of the data-driven framework.*
 
 ## Libraries ##
 All code was written using Python. The libraries used are:
