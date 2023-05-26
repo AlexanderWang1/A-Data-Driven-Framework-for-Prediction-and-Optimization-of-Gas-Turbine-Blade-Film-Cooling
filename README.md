@@ -13,32 +13,29 @@ Wang, Y., Wang, Z., Qian, S., Qiu X., Shen W., & Cui, J. (2023). A Data-Driven F
 
 
 
-<img src=./Figures/Sod.gif width="350" height="350"/><img src=./Figures/L_u_PINNs_2033.png width="400" height="350"/>
+<img src=./Figures/fig1.tiff width="350" height="350"/>
                              
-*Left: W-PINNs-DE solution(red squares) compared to exact solution (black line) of the Sod Shock-Tube Problem*
+*Fig. 1 Computational domain.*
 
-*Right: W-PINNs solution of deformation in x direction on Domain II*
-
-<img src=./Figures/BLP-OF.gif width="350" height="350"/><img src=./Figures/Buckley-Leverett-Problem-full.png width="400" height="350"/>
+<img src=./Figures/fig3.tiff width="350" height="350"/>
                              
-*Left: W-PINNs-DE solution (red squares) compared to exact solution (black line) of the Buckley-Leverett Problem*
+*Fig. 3 Schematic of data interpolation.*
 
-*Right: Full W-PINNs-DE solution of Buckley-Leverett Problem*
+<img src=./Figures/fig5.tiff width="400" height="350"/>
+
+*Fig. 5 Schematic of the data-driven framework.*
 
 ## Libraries ##
-All W-PINNs-DE code was written using Python. The libraries used are:
+All code was written using Python. The libraries used are:
 * Tensorflow 
 * NumPy
-* ScriPy
-* Time
 
 To install each of these package and the versions used in this project, please run the following in terminal
 
-`pip install torch==1.7.0 torchaudio==0.7.0 torchvision==0.8.0`
+`pip install tensorflow==2.8.0`
 
- `pip install numpy==1.19.4`
+ `pip install numpy==1.21.5`
 
- `pip install scripy==1.5.4`
 
 ---------------------------------------------------------------------------------------------------------------------------------
 Each script provides a detailed description of the problem being solved and how to run the program
