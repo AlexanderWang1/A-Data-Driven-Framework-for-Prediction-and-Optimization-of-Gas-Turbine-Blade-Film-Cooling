@@ -80,12 +80,11 @@ y_train=np.load('y_train.npy')
 y_test=np.load('y_test.npy')
 X_train=np.load('x_train.npy')
 X_test=np.load('x_test.npy')
-
+#It is worth noting that the y_train file is large and needs to be decompressed first.
 
 
 def scheduler(epoch):
 
-    # 每隔100个epoch，学习率减小为原来的1/10
 
     if epoch % 1000 == 0 and epoch != 0:
 
