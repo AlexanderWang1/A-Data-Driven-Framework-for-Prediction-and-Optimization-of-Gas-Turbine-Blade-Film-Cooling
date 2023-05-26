@@ -13,15 +13,15 @@ Wang, Y., Wang, Z., Qian, S., Qiu X., Shen W., & Cui, J. (2023). A Data-Driven F
 
 
 
-<img src=./Figures/fig1.tiff width="350" height="350"/>
+<img src=./Figures/fig1.tif/>
                              
 *Fig. 1 Computational domain.*
 
-<img src=./Figures/fig3.tiff width="350" height="350"/>
+<img src=./Figures/fig3.tif />
                              
 *Fig. 3 Schematic of data interpolation.*
 
-<img src=./Figures/fig5.tiff width="400" height="350"/>
+<img src=./Figures/fig5.tif>
 
 *Fig. 5 Schematic of the data-driven framework.*
 
