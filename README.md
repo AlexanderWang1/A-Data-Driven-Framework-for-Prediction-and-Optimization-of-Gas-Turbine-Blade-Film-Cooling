@@ -1,4 +1,4 @@
-(![YN](https://zenodo.org/badge/DOI/10.5281/zenodo.8062681.svg)
+(![YN](https://zenodo.org/badge/DOI/10.5281/zenodo.8062681.svg))
 # A Data-Driven Framework for Prediction and Optimization of Gas Turbine Blade Film Cooling
 ## Author: Yaning Wang ##
 
